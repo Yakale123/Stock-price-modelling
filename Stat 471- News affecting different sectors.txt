@@ -1,0 +1,301 @@
+﻿NVIDIA- Tech sector:
+
+1. GeForce RTX 40 Series GPUs Launch (2024): The release of the GeForce RTX 40 SUPER Series GPUs enhanced NVIDIA's reputation in the gaming sector, leveraging AI capabilities like DLSS 3.5 for superior performance.+ve
+
+2. Collaboration with AWS (2024): NVIDIA expanded its strategic partnership with Amazon Web Services to host NVIDIA DGX Cloud on AWS, enabling enterprises to accelerate AI workloads. This move highlighted NVIDIA's critical role in the cloud computing and AI industries.+ve
+
+3. AI Surge (2023-2024): NVIDIA became a leader in AI chips, with record revenues driven by AI-related GPU demand, significantly boosting its stock price.+ve
+
+4. Record Quarterly Earnings (2024): NVIDIA reported record revenue of $22.1 billion in Q4 2024, marking a 22% increase from the previous quarter and a staggering 265% increase year-over-year. This was largely driven by growth in AI-related products and services. +Ve
+
+5. US-China Tensions (2022-2023): Restrictions on chip sales to China, one of NVIDIA's largest markets, impacted revenue forecasts.
+
+6. Data Center Growth (2024): Data center revenue, linked to AI, surged to represent 90% of total sales, reflecting market dominance.+ve
+
+7. Omniverse Platform Enhancements (2023)NVIDIA unveiled major updates to its Omniverse platform, adding support for Universal Scene Description (OpenUSD) and generative AI features. The upgrades make it easier for creators, developers, and enterprises to collaborate and innovate, solidifying NVIDIA's role in the metaverse and digital twin industries +ve
+
+8. Cryptocurrency Mining Bust (2022): A decline in cryptocurrency mining significantly reduced GPU demand, affecting revenue.
+
+9. Stock Split (2021): A 4-for-1 stock split made shares more accessible to investors, initially boosting demand.+ve
+
+10. Conservative Revenue Forecast (2024): Despite stellar performance, a lower-than-expected Q4 forecast led to a dip in share price 
+
+
+
+References:
+
+https://observer.com/2024/11/nvidia-q3-earnings-ai-chip-demand/
+https://nvidianews.nvidia.com/news/nvidia-and-softbank-group-announce-termination-of-nvidias-acquisition-of-arm-limited
+https://finance.yahoo.com/news/heres-happened-nvidias-last-3-091500233.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pfizer- Health sector:
+
+   1. 2019: Acquisition of Array BioPharma
+Pfizer's $11.4 billion acquisition of Array BioPharma boosted its oncology portfolio, especially in colorectal cancer treatment. This strategic move was viewed positively by investors, enhancing the stock's outlook.
+
+   2. 2020: Emergency Use Authorization for COVID-19 Vaccine
+Pfizer and BioNTech received EUA for their COVID-19 vaccine, Comirnaty, in December 2020, marking the first COVID-19 vaccine approval globally. This news led to significant stock price gains.
+
+   3. 2021: Record COVID-19 Vaccine Sales
+Pfizer reported $36 billion in sales from Comirnaty in 2021, making it the best-selling pharmaceutical product ever. The company experienced strong financial performance and investor optimism.
+
+   4. 2021: Patent Infringement Lawsuits
+Pfizer faced multiple lawsuits over intellectual property disputes concerning its COVID-19 vaccine, which created uncertainty for investors.
+
+   5. 2022: Launch of Paxlovid
+The FDA granted EUA to Paxlovid, Pfizer's oral COVID-19 antiviral treatment. The approval increased Pfizer's revenue potential, positively affecting stock performance.
+
+   6. 2022: Revenue Miss in Q3 Earnings
+Despite strong vaccine sales, Pfizer reported lower-than-expected overall revenue in Q3 2022 due to declining demand for COVID-19 treatments, causing a dip in share price.
+
+   7. 2023: Acquisition of Seagen
+Pfizer announced its $43 billion acquisition of Seagen to bolster its oncology portfolio, which was seen as a strategic growth move but raised concerns about debt levels, impacting its stock.
+
+   8. 2023: Declining COVID-19 Vaccine Demand
+Pfizer slashed its 2023 revenue forecast by $9 billion due to plummeting demand for COVID-19 products, causing a 9% stock price drop.
+
+   9. 2023: COVID-19 Lawsuit Win Against Moderna
+Pfizer secured a legal victory against Moderna over patent infringement claims related to COVID-19 vaccine technology, alleviating some legal concerns.
+
+   10. 2024: Weak Revenue Guidance for 2024
+Pfizer's 2024 revenue guidance disappointed analysts as it fell short of expectations, leading to a 9% decline in its stock price. The company cited lower COVID-19 product demand as a primary reason.
+
+
+References:
+https://www.fiercepharma.com/pharma/pfizers-2024-revenue-guidance-reflects-plummeting-demand-covid-products
+https://www.fiercepharma.com/pharma/pfizer-and-biontech-win-pause-covid-19-vaccine-patent-infringement-trial-moderna
+https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invests-43-billion-battle-cancer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ExxonMobil- Energy Sector
+
+      1. 2007 - Record Profits Amid Rising Oil Prices: ExxonMobil reported record-breaking profits of $40.6 billion for the year, driven by high crude oil prices that exceeded $90 per barrel. However, this drew significant public criticism due to rising gasoline prices at the time .
+
+      2. 2010 - Gulf of Mexico Spill Scrutiny: Although primarily linked to BP, the Deepwater Horizon spill increased scrutiny on all major oil companies, including ExxonMobil. The event raised regulatory pressures and increased operating costs for offshore drilling .
+
+      3. 2014 - Declining Oil Prices Impact: Crude oil prices plummeted to under $50 per barrel by the end of 2014, sharply reducing ExxonMobil's earnings. The company responded by cutting exploration budgets and delaying capital projects 
+
+      4. 2017 - Climate Change Shareholder Vote: Shareholders overwhelmingly voted to require ExxonMobil to disclose the impacts of climate change policies on its business, signaling increased pressure for environmental transparency .
+
+      5. 2019 - Guyana Oil Discoveries: ExxonMobil announced significant oil discoveries in Guyana, with recoverable resources exceeding 10 billion barrels of oil-equivalent, boosting the company's growth prospects
+
+      6. 2020 - COVID-19 Pandemic Losses: The pandemic led to a massive decline in global energy demand, and ExxonMobil posted its first annual loss in decades, amounting to $22 billion
+
+      7. 2021 - Shareholder Activist Victory: Engine No. 1, an activist hedge fund, won three seats on ExxonMobil's board, pushing for a shift toward renewable energy investments. This marked a turning point in the company's strategy 
+
+      8. 2022 - Ukraine War and Energy Crisis: The Russia-Ukraine war disrupted global energy markets, driving oil prices up. ExxonMobil exited its Sakhalin oil and gas operations in Russia, incurring financial and reputational impacts while benefiting from high energy prices
+
+      9. 2023 - Pioneer Natural Resources Acquisition: ExxonMobil acquired Pioneer Natural Resources for $59.5 billion, enhancing its presence in the Permian Basin. This was seen as a strategic move to solidify its position in U.S. shale production.        
+
+
+         10. 2024 - Carbon Capture and EV Investments: ExxonMobil expanded its carbon capture projects and invested in electric vehicle (EV) battery materials, aiming to diversify its portfolio and address climate change concerns.
+References:
+https://investor.exxonmobil.com/news-events/press-releases/detail/44/exxonmobil-earns-23-billion-in-2021-initiates-10-billion
+https://www.nytimes.com/2008/02/01/business/01cnd-exxon.html
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9200171/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News not relevant to either sector:
+         1. **"Barbenheimer" Phenomenon (e simultaneous release of Barbie and Oppenheimer became a cultural event, generating significant box office revenue and reviving cinema post-pandemic.
+         2. UN High Seas Treaty Adoption (2023): After decades of negotiations, the ons finalized a treaty to protect marine biodiversity in international waters .
+         3. Toyota’s Hydrogen gh (2023): Toyota announced advancements in hydrogen fuel technology, aiming to make hydrogen a viable alternative to electric vehicles .
+         4. Netflix Password-Sharing Crackdown (2023): Netflix inasures to curb password sharing, aiming to increase subscriptions, sparking debates about user access and platform policies.
+         5. Argentina wins the World Cup
+         6. Man in Pakistan dies after slipping in the bathroom.
+         7. Amazon Rainforest Deforestation Hits Record Levels (2021-2023): Reports revealed accelerating deforestation in the Amazon, raising alarms about climate change and biodiversity loss.
+         8. Ford’s EV Division Announcement (2023): Ford announced a significant restructuring to focus on electric vehicles, boosting its credibility in the transition to sustainable automotive solutions.
+         9. GameStop and the Reddit-Fueled Stock Surge (2021): Retail investors on Reddit's r/WallStreetBets caused GameStop's stock price to soar, disrupting traditional market dynamics and attracting regulatory attention.
+         10. India wins the world Cup.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parameters
+T = 3 # Time horizon in years
+N = 252  # Number of steps (trading days)
+dt = T / N  # Time increment
+# for example google: price 2010
+# Parameters for stock dynamics
+r = 0.043 # Risk-free rate
+S0 = 30.12 # Initial stock price
+
+
+kappa = 1.2  # Mean reversion speed of volatility. For NVIDIA, or similar tech stocks,  κ could indicate how quickly volatility stabilizes after product launches, earnings surprises, or broader market events.
+theta = 0.02  # Long-term mean of variance. This is what is typically used in the heston model.
+eta = 0.5 # Volatility of variance. Found from research and this is typical for nvidia because it has been volatile in the lately
+v0 = 0.4004 # Initial variance (volatility squared). Found from research.
+alpha = 0.1  # Speed of mean reversion for jump intensity
+beta = 1.66  # Long-term mean jump intensity- from yahoo finance
+delta = 0.15
+Jump parameters
+jump_mean = 0.02  # Mean jump size for stock price
+jump_vol = 0.37  # Volatility of jump size
+vol_jump_mean = 0.06  # Mean jump size for volatility
+vol_jump_vol = 0.2  # Volatility of jump size - reflecting the dynamic nature of NVIDIA’s volatility profile as a high-growth tech company.
+
+
+References:
+
+https://ca.finance.yahoo.com/quote/NVDA/
+https://www.codearmo.com/python-tutorial/heston-model-simulation-python
+https://www.mdpi.com/2227-9091/8/2/59
+https://www.alphaquery.com/stock/NVDA/volatility-option-statistics/30-day/historical-volatility
+https://ycharts.com/indicators/10_year_treasury_rate
+https://portfolioslab.com/symbol/NVDA
+https://marketchameleon.com/Overview/NVDA/IV/
+https://www.alphaquery.com/stock/NVDA/volatility-option-statistics/30-day/iv-call
+https://www.alphaquery.com/stock/NVDA/volatility-option-statistics/30-day/iv-call
+https://www.maths.univ-evry.fr/pages_perso/crepey/Finance/051111_mikh%20heston.pdf
+https://www.maths.univ-evry.fr/pages_perso/crepey/Equities/andersen%20vol%20sto.pdf
+https://www.mdpi.com/2227-9091/8/2/59
+https://quantpy.com.au/stochastic-volatility-models/heston-model-calibration-to-option-prices/
+https://xilinx.github.io/Vitis_Libraries/quantitative_finance/2021.2/models/HT.html
+https://www.tomshardware.com/news/gpu-market-healthy-and-vibrant-in-q2-2023-report
+https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-rise-artificial-intelligence-ai-tech-shares-2023-3
+
+
+
+
+
+
+
+
+
+
+
+
+NVIDIA market sentiment
+
+         1. Positive Sentiment from AI Boom (2023): NVIDIA became a key beneficiary of the global AI surge, driven by the success of tools like ChatGPT. The company's GPUs became essential for training large language models and other AI applications, resulting in an 84% surge in its stock price during the first quarter of 2023. This added $300 billion to its market capitalization, making it one of the best-performing stocks in the S&P 500 during this period.
+
+         2. Resilience Amid Market Challenges (2022): Despite challenges like declining PC demand, NVIDIA maintained strong market sentiment due to its dominance in data center and gaming GPU markets. While desktop GPU shipments saw a decline, NVIDIA still commanded 80.2% of the discrete GPU market share, showcasing its market strength.
+
+         3. Product Releases and Market Optimism (2023): New product launches, including the RTX 4060 and 4070 series GPUs, fueled optimism. These products targeted the midrange gaming segment, historically a popular choice among consumers, contributing to revenue growth.
+
+         4. Strategic Partnerships: Partnerships with companies like Google, Microsoft, and Oracle further solidified NVIDIA's position in AI and cloud computing, enhancing investor confidence.
+
+         5. Mixed Sentiment in Early 2022: Earlier in 2022, sentiment was more tempered due to macroeconomic pressures like rising interest rates and supply chain disruptions. However, NVIDIA's long-term growth prospects in AI and gaming helped mitigate negative impacts.
+
+This means that NVIDIA market sentiment started off bearish and has then remained bullish up to now.
